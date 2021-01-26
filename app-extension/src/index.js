@@ -12,6 +12,7 @@ function extendConf (conf) {
 
   // make sure app extension files & ui package gets transpiled
   conf.build.transpileDependencies.push(/quasar-app-extension-qribbon[\\/]src/)
+  conf.build.transpileDependencies.push(/quasar-ui-qribbon[\\/]src/)
 
   // make sure the stylesheet goes through webpack to avoid SSR issues
   conf.css.push('~@quasar/quasar-ui-qribbon/src/index.sass')

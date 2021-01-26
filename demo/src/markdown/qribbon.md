@@ -23,16 +23,16 @@ quasar ext remove @quasar/qribbon
 You can use `quasar describe QRibbon`
 
 # Source
-Can be found [here](https://github.com/quasarframework/app-extension-qribbon/).
+Can be found [here](https://github.com/quasarframework/quasar-ui-qribbon/).
 
 # Docs
-Can be found [here](https://quasarframework.github.io/app-extension-qribbon/).
+Can be found [here](https://quasarframework.github.io/quasar-ui-qribbon/).
 
 # Examples
-Can be found [here](https://quasarframework.github.io/app-extension-qribbon/examples).
+Can be found [here](https://quasarframework.github.io/quasar-ui-qribbon/examples).
 
 # Interactive Demo / QRibbon Builder
-Can be found [here](https://quasarframework.github.io/app-extension-qribbon/builder).
+Can be found [here](https://quasarframework.github.io/quasar-ui-qribbon/builder).
 
 # Demo (source) Project
-Can be found [here](https://github.com/quasarframework/app-extension-qribbon/tree/master/demo).
+Can be found [here](https://github.com/quasarframework/quasar-ui-qribbon/tree/master/demo).
